@@ -1,0 +1,21 @@
+{
+    "$schema": "./settings-schema.jsonc",
+    "player": {
+        "color": "red",
+        "radius": "5",
+        "speed": 5,
+        "randomColor": true
+    },
+    "game": {
+        "width": 10000,
+        "height": 10000,
+        "viewWidth": 1920,
+        "viewHeight": 1080, 
+        "useWindowSize": false,
+        "bgcolor": "#f2fbff",
+        "gridColor": "#cad1d4",
+        "gridStrokeSize": 3,
+        "gridSize": 100,
+        "username": "chonga"
+    }
+}
