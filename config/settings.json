@@ -2,7 +2,7 @@
     "$schema": "./settings-schema.jsonc",
     "player": {
         "color": "red",
-        "radius": "5",
+        "radius": 50,
         "speed": 5,
         "randomColor": true
     },

@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "color": "^4.2.0",
+    "keycode-js": "^3.1.0",
     "p5": "^1.4.0"
   }
 }
